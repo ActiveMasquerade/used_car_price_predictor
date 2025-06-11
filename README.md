@@ -16,7 +16,7 @@ The dataset should be a CSV file containing columns such as:
 -   `engine_size`
 -   `model` _(categorical, optional)_
 
-Example data source: Kaggle's [BMW Used Car Dataset](https://www.kaggle.com/datasets)
+Example Data Sources are provided in the data folder
 
 ---
 
