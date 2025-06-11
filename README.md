@@ -14,7 +14,6 @@ The dataset should be a CSV file containing columns such as:
 -   `fuel_type`
 -   `transmission`
 -   `engine_size`
--   `model` _(categorical, optional)_
 
 Example Data Sources are provided in the data folder
 
