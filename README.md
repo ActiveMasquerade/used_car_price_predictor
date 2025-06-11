@@ -65,7 +65,7 @@ python predictor.py --data path/to/bmw.csv --plot
 Decision Tree Regressor trained.
 Random Forest Regressor trained.
 
-Decision Tree Evaluation:
+```Decision Tree Evaluation:
 RMSE: 2940.67
 MAE: 2190.54
 R^2 Score: 0.78
@@ -74,3 +74,4 @@ Random Forest Evaluation:
 RMSE: 2153.39
 MAE: 1710.45
 R^2 Score: 0.87
+```
